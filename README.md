@@ -1,3 +1,3 @@
 # Google_code
 
-用来测试谷歌的colab
+用来测试Google的colab
